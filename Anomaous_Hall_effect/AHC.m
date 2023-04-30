@@ -1,7 +1,7 @@
 clc
 clear all
 
-filename = 'DPB_ahc-fermiscan_200_200_200.dat';
+filename = 'Filename.dat';
 delimiterIn = ' ';
 headerlinesIn = 0;
 A = importdata(filename,delimiterIn,headerlinesIn);
