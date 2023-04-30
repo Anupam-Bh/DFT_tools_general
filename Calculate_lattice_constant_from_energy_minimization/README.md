@@ -1,0 +1,1 @@
+# Calculates equilibrium lattice constant
